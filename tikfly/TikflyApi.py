@@ -29,7 +29,11 @@ from .schemas import ChallengeInfoResponse
 from .schemas import DownloadVideoResponse, DownloadMusicResponse
 
 class TikflyApi():
-  def __init__(self, x_rapidapi_key: str):
+  def __init__(
+    self,
+    x_rapidapi_key: str,
+    host: str = 'tiktok-api23.p.rapidapi.com'
+  ):
     """
     Initialize the TikflyApi instance.
 
@@ -44,7 +48,7 @@ class TikflyApi():
       raise ValueError('x_rapidapi_key is required')
 
     self.x_rapidapi_key = x_rapidapi_key
-    self.host = 'tiktok-api23.p.rapidapi.com'
+    self.host = host
     self.base_api_url = f'https://{self.host}/api'
     self.headers = {
       'x-rapidapi-key': self.x_rapidapi_key,
