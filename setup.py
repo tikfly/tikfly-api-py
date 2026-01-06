@@ -5,7 +5,7 @@ with open('README.md', 'r') as file:
 
 setup(
   name='tikfly',
-  version='1.1.0',
+  version='1.1.1',
   author='Tikfly',
   author_email='hello@tikfly.io',
   description='Unofficial TikTok API Wrapped in Python',
