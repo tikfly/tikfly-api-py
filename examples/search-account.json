@@ -1,0 +1,65 @@
+{
+  "hasMore": 1,
+  "cursor": 12,
+  "log_pb": {
+    "impr_id": "20251120012712816099520CDA04824F17"
+  },
+  "user_list": [
+    {
+      "user_info": {
+        "uid": "6881290705605477381",
+        "nickname": "Taylor Swift",
+        "signature": "This is pretty much just a cat account",
+        "avatar_thumb": {
+          "uri": "tos-maliva-avt-0068/c39c2807c155535cf328225955e00aba",
+          "url_list": [
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/c39c2807c155535cf328225955e00aba~tplv-tiktokx-cropcenter:100:100.webp?biz_tag=tiktok_user.user_cover&dr=14579&idc=my&ps=13740610&refresh_token=532dfbd1&shcp=c1333099&shp=30310797&t=4d5b0474&x-expires=1764226800&x-signature=uN3qdOWoiodw3SgcQmiEufsX4tk%3D",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/c39c2807c155535cf328225955e00aba~tplv-tiktokx-cropcenter:100:100.jpeg?biz_tag=tiktok_user.user_cover&dr=14579&idc=my&ps=13740610&refresh_token=b29c771f&shcp=c1333099&shp=30310797&t=4d5b0474&x-expires=1764226800&x-signature=SP8r9XFIkHLPpJxsClv88JlLMNE%3D"
+          ],
+          "width": 720,
+          "height": 720,
+          "url_prefix": null
+        },
+        "follower_count": 33300000,
+        "total_favorited": 263939715,
+        "custom_verify": "Verified account",
+        "unique_id": "taylorswift",
+        "room_id": 0,
+        "enterprise_verify_reason": "",
+        "followers_detail": null,
+        "platform_sync_info": null,
+        "geofencing": null,
+        "cover_url": null,
+        "item_list": null,
+        "type_label": null,
+        "ad_cover_url": null,
+        "relative_users": null,
+        "cha_list": null,
+        "sec_uid": "MS4wLjABAAAAqB08cUbXaDWqbD6MCga2RbGTuhfO2EsHayBYx08NDrN7IE3jQuRDNNN6YwyfH6_6",
+        "need_points": null,
+        "homepage_bottom_toast": null,
+        "can_set_geofencing": null,
+        "white_cover_url": null,
+        "user_tags": null,
+        "bold_fields": null,
+        "search_highlight": null,
+        "mutual_relation_avatars": null,
+        "room_id_str": "",
+        "events": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "user_profile_guide": null,
+        "shield_edit_field_info": null,
+        "can_message_follow_status_list": null,
+        "account_labels": null
+      },
+      "position": null,
+      "uniqid_position": null,
+      "effects": null,
+      "musics": null,
+      "items": null,
+      "mix_list": null,
+      "challenges": null
+    }
+  ]
+}

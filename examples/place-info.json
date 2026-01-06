@@ -1,0 +1,42 @@
+{
+  "poiInfo": {
+    "poi": {
+      "address": "California, United States",
+      "allLevelGeoPoiInfo": {},
+      "category": "Places",
+      "city": "",
+      "cityCode": "116023605",
+      "country": "",
+      "countryCode": "6252001",
+      "fatherPoiId": "",
+      "fatherPoiName": "",
+      "id": "22535865202704586",
+      "indexEnabled": true,
+      "isClaimed": false,
+      "isCollected": false,
+      "name": "Hollywood",
+      "phoneInfo": {
+        "exist": false
+      },
+      "pictureAlbum": {
+        "totalCount": 0
+      },
+      "poiDetailTags": [
+        {
+          "content": "Places",
+          "tagType": 5
+        }
+      ],
+      "province": "",
+      "ttTypeCode": "19a3a6",
+      "ttTypeNameMedium": "Places",
+      "ttTypeNameSuper": "Place and Address",
+      "ttTypeNameTiny": "Other Places",
+      "type": 1,
+      "typeCode": ""
+    },
+    "stats": {
+      "videoCount": 319656
+    }
+  }
+}

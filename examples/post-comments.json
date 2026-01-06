@@ -1,0 +1,70 @@
+{
+  "hasMore": 1,
+  "cursor": 50,
+  "total": 248,
+  "comments": [
+    {
+      "allow_download_photo": true,
+      "author_pin": false,
+      "aweme_id": "7306132438047116586",
+      "cid": "7500675626996744968",
+      "collect_stat": 0,
+      "comment_language": "en",
+      "create_time": 1746387170,
+      "digg_count": 6,
+      "is_author_digged": false,
+      "is_comment_translatable": true,
+      "is_high_purchase_intent": false,
+      "reply_comment_total": 6,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "sort_extra_score": {
+        "reply_score": 0.006336,
+        "show_more_score": 0.085608
+      },
+      "status": 1,
+      "stick_position": 0,
+      "text": "Hello guys",
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-alisg-avt-0068/5fee0198a94bfb49960780fa8ff42e72",
+          "url_list": [
+            "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/5fee0198a94bfb49960780fa8ff42e72~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=de42bc37&x-expires=1763629200&x-signature=6OEuZ0tmvBa7DZaz8Dt6dPfmaxk%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=my",
+            "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/5fee0198a94bfb49960780fa8ff42e72~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=66560ee7&x-expires=1763629200&x-signature=Y9IXcfNdP3yi6259tCG1Id5bFOM%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=my"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "Taylor Swift",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAAqB08cUbXaDWqbD6MCga2RbGTuhfO2EsHayBYx08NDrN7IE3jQuRDNNN6YwyfH6_6",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "6881290705605477381",
+        "unique_id": "taylorswift",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      }
+    }
+  ]
+}

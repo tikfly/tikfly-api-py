@@ -1,0 +1,35 @@
+{
+  "sticker_infos": [
+    {
+      "attributions": null,
+      "children": [],
+      "desc": "",
+      "effect_id": "321535",
+      "effect_source": 0,
+      "extra": "{\"prop_block_story\":true,\"zstFileSize\":\"282781\",\"zstFileUri\":\"54635c330085ae4442197c03da11cd52\",\"zipMd5\":\"cf79b19bcfb3acbc4cbbe6663f822af0\"}",
+      "icon_url": {
+        "uri": "cfaa5ce4a49351ceb195197df28a788b",
+        "url_list": [
+          "https://lf16-effectcdn-sg.tiktokcdn.com/obj/ies.fe.effect.alisg/cfaa5ce4a49351ceb195197df28a788b"
+        ],
+        "url_prefix": null
+      },
+      "id": "321535",
+      "is_top_effect_designer": false,
+      "linked_anchors": null,
+      "name": "Green Screen",
+      "owner_id": "",
+      "owner_nickname": "Effect Assistant",
+      "owner_verified_type": 0,
+      "publish_time": 1565699542000,
+      "sec_uid": "",
+      "tags": [
+        "canStack",
+        "camera front",
+        "gs_enable_tt_effect_page_filter"
+      ],
+      "user_count": 1022772250,
+      "vv_count": 221123177392
+    }
+  ]
+}

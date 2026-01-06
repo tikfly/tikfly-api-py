@@ -1,0 +1,54 @@
+{
+  "data": {
+    "musicInfo": {
+      "artist": {
+        "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f8c7cad75f3a12205d31d6662d2555d5~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=44dee363&x-expires=1743199200&x-signature=%2BGEGvUBERYBrAM3WxRM7lBR%2BwHk%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+        "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f8c7cad75f3a12205d31d6662d2555d5~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=9014dbf4&x-expires=1743199200&x-signature=z0YrUAc7zL43tXzRLreiqXkp3UQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=f20df69d&idc=my",
+        "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f8c7cad75f3a12205d31d6662d2555d5~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=5e79e1f7&x-expires=1743199200&x-signature=JC18MQX811ztSmm8YN5MdLNjViA%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=f20df69d&idc=my",
+        "ftc": false,
+        "id": "6881290705605477381",
+        "nickname": "Taylor Swift",
+        "openFavorite": true,
+        "privateAccount": false,
+        "secUid": "MS4wLjABAAAAqB08cUbXaDWqbD6MCga2RbGTuhfO2EsHayBYx08NDrN7IE3jQuRDNNN6YwyfH6_6",
+        "secret": false,
+        "signature": "This is pretty much just a cat account",
+        "uniqueId": "taylorswift"
+      },
+      "artists": [
+        {
+          "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f8c7cad75f3a12205d31d6662d2555d5~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=44dee363&x-expires=1743199200&x-signature=%2BGEGvUBERYBrAM3WxRM7lBR%2BwHk%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+          "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f8c7cad75f3a12205d31d6662d2555d5~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=9014dbf4&x-expires=1743199200&x-signature=z0YrUAc7zL43tXzRLreiqXkp3UQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=f20df69d&idc=my",
+          "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/f8c7cad75f3a12205d31d6662d2555d5~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=5e79e1f7&x-expires=1743199200&x-signature=JC18MQX811ztSmm8YN5MdLNjViA%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=f20df69d&idc=my",
+          "ftc": false,
+          "id": "6881290705605477381",
+          "nickname": "Taylor Swift",
+          "openFavorite": true,
+          "privateAccount": false,
+          "secUid": "MS4wLjABAAAAqB08cUbXaDWqbD6MCga2RbGTuhfO2EsHayBYx08NDrN7IE3jQuRDNNN6YwyfH6_6",
+          "secret": false,
+          "signature": "This is pretty much just a cat account",
+          "uniqueId": "taylorswift"
+        }
+      ],
+      "music": {
+        "album": "",
+        "authorName": "Taylor Swift",
+        "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/c39c2807c155535cf328225955e00aba~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=18df4cd3&x-expires=1763632800&x-signature=RX9GiL%2FEZngDo3rcRA1tsqkQmuo%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+        "coverMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/c39c2807c155535cf328225955e00aba~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=614c3172&x-expires=1763632800&x-signature=d3Q%2FxhrnR1B1G9pX%2FJm60%2Fmgo9E%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+        "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/c39c2807c155535cf328225955e00aba~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=e9b90fd8&x-expires=1763632800&x-signature=%2BJ97ep4n2G7v%2F2MKOwBcj%2F9MR1E%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+        "duration": 60,
+        "id": "7556815852168759313",
+        "isCopyrighted": true,
+        "original": true,
+        "playUrl": "https://v16m.tiktokcdn.com/fb3d5ac2c28d791b79c06cd9ceca27ef/691d9d5e/video/tos/maliva/tos-maliva-v-27dcd7c799-us/oI2Aep2tC9pUdvVpJz2BEJ4nmEEjEAFVAAAFfD/?a=1180&bti=ODszNWYuMDE6&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=250&bt=125&ds=5&ft=.NpOcInz7ThSPQcPXq8Zmo&mime_type=audio_mpeg&qs=13&rc=MzwzaXE5cnV3NzMzaTU8NEBpMzwzaXE5cnV3NzMzaTU8NEBvZ2tzMmRjaF5hLS1kMTJzYSNvZ2tzMmRjaF5hLS1kMTJzcw%3D%3D&vvpl=1&l=20251118183239BD2E13106ED74F0A522E&btag=e00050000&cc=3",
+        "private": false,
+        "title": "original sound",
+        "tt2dsp": {}
+      },
+      "stats": {
+        "videoCount": 737500
+      }
+    }
+  }
+}
